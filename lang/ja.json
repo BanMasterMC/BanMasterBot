@@ -1,0 +1,11 @@
+{
+  "commands": {
+    "help": "これを表示します。",
+    "eval": "スクリプトを実行します。",
+    "version": "バージョンを表示します。"
+  },
+  "no_command": "コマンドが見つかりません。",
+  "youdonthaveperm": "Seems like you don't have enough permission to do this.",
+  "yes": "はい",
+  "no": "いいえ"
+}

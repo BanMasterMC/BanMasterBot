@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "bot-framework": "acrylic-style/bot-framework",
+    "discord.js": "^12.3.1",
+    "dotenv-safe": "^8.2.0",
+    "logger.js": "acrylic-style/logger.js"
+  }
+}
