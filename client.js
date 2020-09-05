@@ -29,3 +29,5 @@ process.on('SIGINT', async () => {
 
 logger.info('Logging into Discord')
 client.login(env.TOKEN)
+
+module.exports = client
